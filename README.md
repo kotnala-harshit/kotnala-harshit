@@ -88,6 +88,6 @@ Analytics Engineer · BI Specialist · Data Engineer · Analytics Consultant rol
 
 <div align="center">
 
-📧 [YOUR_EMAIL@gmail.com](mailto:YOUR_EMAIL@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) &nbsp;·&nbsp; 📊 [Power BI Portfolio](https://novypro.com/YOUR_PROFILE)
+📧 [YOUR_EMAIL@gmail.com](mailto:harshitkotnala5@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/harshit-kotnala/) &nbsp;·&nbsp; 📊 [Power BI Portfolio](https://novypro.com/YOUR_PROFILE)
 
 </div>
