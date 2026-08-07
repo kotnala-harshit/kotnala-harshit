@@ -11,9 +11,9 @@
 
 ## About
 
-3+ years spanning enterprise ERP delivery, live consulting, and data-driven analytics. Managed end-to-end ERP implementation for 50+ clients — including Raymond, Skechers, and Samsonite — across 500+ retail formats alongside PwC India. Combines operational systems experience with primary research, quantitative modelling, and ML pipelines.
+3+ years spanning enterprise ERP delivery, live consulting, and data-driven analytics. Managed end-to-end ERP implementation for 50+ clients - including Raymond, Skechers, and Samsonite - across 500+ retail formats alongside PwC India. Combines operational systems experience with primary research, quantitative modelling, and ML pipelines.
 
-Currently completing my MSc in Business Analytics at University College Cork (graduating September 2026), where I led a Deloitte-mentored research project on equity market surveillance, delivered SQL and R tutorials to 100+ postgraduate students, and served as Masters Representative on the UCC Consulting Society — connecting 7,300+ students to McKinsey, BCG, Accenture, Deutsche Bank, and UBS.
+Currently completing my MSc in Business Analytics at University College Cork (graduating September 2026), where I led a Deloitte-mentored research project on equity market surveillance, delivered SQL and R tutorials to 100+ postgraduate students, and served as Masters Representative on the UCC Consulting Society - connecting 7,300+ students to McKinsey, BCG, Accenture, Deutsche Bank, and UBS.
 
 📍 Cork, Ireland &nbsp;·&nbsp; Available from September 2026
 
@@ -97,7 +97,7 @@ MILP + Dijkstra routing + Monte Carlo simulation for a global luxury supply chai
 PPP testing and ARIMA(2,1,0) forecasting of JPY/USD real exchange rate using 240 monthly observations (2000–2019) from FRED.
 
 - Absolute and relative PPP rejected in the short run (consistent with Rogoff 1996)
-- Engle-Granger cointegration confirmed — PPP holds as long-run anchor
+- Engle-Granger cointegration confirmed - PPP holds as long-run anchor
 - **ARIMA(2,1,0)** selected by AIC/BIC · MAPE **0.75%** over 12-month forecast horizon
 - Structural break identified: 2008 GFC + Abenomics
 
@@ -105,10 +105,10 @@ PPP testing and ARIMA(2,1,0) forecasting of JPY/USD real exchange rate using 240
 
 ---
 
-### 🏏 [Sports Performance EDA — IPL Dataset](https://github.com/kotnala-harshit/Exploratory-Data-Analysis-Sports)
+### 🏏 [Sports Performance EDA - IPL Dataset](https://github.com/kotnala-harshit/Exploratory-Data-Analysis-Sports)
 *Exploratory Data Analysis*
 
-EDA on multi-season IPL cricket data — feature engineering, correlation analysis, and multi-layered visualisations to uncover player and team performance patterns.
+EDA on multi-season IPL cricket data - feature engineering, correlation analysis, and multi-layered visualisations to uncover player and team performance patterns.
 
 `Python` `Pandas` `Seaborn` `Matplotlib` `Jupyter`
 
@@ -118,10 +118,10 @@ EDA on multi-season IPL cricket data — feature engineering, correlation analys
 
 | Period | Role | Organisation |
 |---|---|---|
-| Feb – Apr 2026 | Junior Consultant, Live Client Project | Irish Student Consulting Group |
-| Sept 2025 – Apr 2026 | Postgraduate Tutor — SQL, Databases & R | University College Cork |
+| Feb 2026 – Apr 2026 | Junior Consultant, Live Client Project | Irish Student Consulting Group |
+| Sept 2025 – Apr 2026 | Postgraduate Tutor - SQL, Databases & R | University College Cork |
 | Jun 2023 – Jul 2025 | Software Implementation Executive | Darsh InfoTech Pvt Ltd |
-| Jun 2022 – Jun 2023 | Management Trainee — IT Operations | Somnath Products |
+| Jun 2022 – Jun 2023 | Management Trainee - IT Operations | Somnath Products |
 
 ---
 
@@ -143,8 +143,8 @@ EDA on multi-season IPL cricket data — feature engineering, correlation analys
 
 ## Education
 
-🎓 **MSc in Business Analytics** — University College Cork, Ireland *(Sept 2025 – Sept 2026)*  
-⚙️ **B.E. in Mechanical Engineering** — University of Mumbai, India *(Aug 2018 – Aug 2022)*
+🎓 **MSc in Business Analytics** - University College Cork, Ireland *(Sept 2025 – Sept 2026)*  
+⚙️ **B.E. in Mechanical Engineering** - University of Mumbai, India *(Aug 2018 – Aug 2022)*
 
 ---
 
