@@ -15,7 +15,7 @@
 
 Currently completing my MSc in Business Analytics at University College Cork (graduating September 2026), where I led a Deloitte-mentored research project on equity market surveillance, delivered SQL and R tutorials to 100+ postgraduate students, and served as Masters Representative on the UCC Consulting Society - connecting 7,300+ students to McKinsey, BCG, Accenture, Deutsche Bank, and UBS.
 
-📍 Cork, Ireland &nbsp;·&nbsp; Available from September 2026
+📍 Dublin, Ireland &nbsp;·&nbsp; Available from September 2026
 
 ---
 
