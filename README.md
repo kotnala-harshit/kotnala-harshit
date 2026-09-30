@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kotnala--harshit.github.io-6366f1?style=flat-square&logo=github&logoColor=white)](https://kotnala-harshit.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harshit--kotnala-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kotnala/)
-[![Email](https://img.shields.io/badge/Email-harshitkotnala2025@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitkotnala2025@gmail.com)
+[![Email](https://img.shields.io/badge/Email-harshitkotnala5@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitkotnala5@gmail.com)
 [![Power BI](https://img.shields.io/badge/Microsoft_Certified-Power_BI_Data_Analyst-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-gb/users/harshitkotnala-0059/credentials/b7522d3595657b5d)
 
 ---
@@ -150,4 +150,4 @@ EDA on multi-season IPL cricket data - feature engineering, correlation analysis
 
 ## Get In Touch
 
-📧 [harshitkotnala2025@gmail.com](mailto:harshitkotnala2025@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/harshit-kotnala/) &nbsp;·&nbsp; 🌐 [Portfolio](https://kotnala-harshit.github.io)
+📧 [harshitkotnala5@gmail.com](mailto:harshitkotnala5@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/harshit-kotnala/) &nbsp;·&nbsp; 🌐 [Portfolio](https://kotnala-harshit.github.io)
